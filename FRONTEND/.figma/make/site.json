@@ -1,0 +1,10 @@
+{
+  "description": "NEXUS HR is an advanced enterprise HR platform that streamlines employee management, attendance tracking, recruitment, and payroll processing, enhancing operational efficiency and decision-making.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
